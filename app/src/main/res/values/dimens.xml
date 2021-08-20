@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_margin_32dp">32dp</dimen>
+    <dimen name="login_margin_16dp">16dp</dimen>
+    <dimen name="login_margin_8dp">8dp</dimen>
+    <dimen name="login_text_size">16sp</dimen>
+    <dimen name="login_text_padding_8dp">16dp</dimen>
+</resources>

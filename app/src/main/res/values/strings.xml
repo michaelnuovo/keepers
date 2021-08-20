@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Keepers</string>
+    <string name="login">Login</string>
+    <string name="enter_master_password">Enter Master Password</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="dont_have_an_account">Don\u0027t have an account</string>
+    <string name="need_help">Need Help</string>
+    <string name="copy_right">\u00402020 Keeper Security, Inc</string>
+    <string name="create">Create</string>
+    <string name="use_enterprise_sso_login">Use Enterprise SSO Login</string>
+    <string name="email">Email</string>
+    <string name="master_password">Master Password</string>
+    <string name="invalid_email">Email Address Invalid</string>
+    <string name="invalid_password">Password Invalid</string>
+    <string name="logging_in">Logging In</string>
+</resources>
